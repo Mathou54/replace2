@@ -1,13 +1,13 @@
 {
-  "name": "replace",
-  "description": "Command line search and replace utility",
+  "name": "replace2",
+  "description": "Command line search and replace utility. Fork with rename of the commands.",
   "license": "MIT",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "author": "Heather Arthur <fayearthur@gmail.com>",
   "main": "replace.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/harthur/replace.git"
+    "url": "git+ssh://git@github.com/harthur/replace.git"
   },
   "scripts": {
     "test": "tap test"
@@ -21,13 +21,20 @@
     "tape": "~0.2.2"
   },
   "bin": {
-    "replace": "./bin/replace.js",
-    "search": "./bin/search.js"
+    "replace2": "./bin/replace.js",
+    "search2": "./bin/search.js"
   },
   "keywords": [
     "sed",
     "grep",
     "search",
     "replace"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/harthur/replace/issues"
+  },
+  "homepage": "https://github.com/harthur/replace#readme",
+  "directories": {
+    "test": "test"
+  }
 }
