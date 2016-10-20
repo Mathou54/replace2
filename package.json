@@ -2,7 +2,7 @@
   "name": "replace2",
   "description": "Command line search and replace utility. Fork with rename of the commands.",
   "license": "MIT",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "author": "Heather Arthur <fayearthur@gmail.com>",
   "main": "replace.js",
   "repository": {
