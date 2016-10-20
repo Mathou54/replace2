@@ -3,11 +3,11 @@
   "description": "Command line search and replace utility. Fork with rename of the commands.",
   "license": "MIT",
   "version": "0.3.2",
-  "author": "Heather Arthur <fayearthur@gmail.com>",
+  "author": "Mathou54 <matt54425+github.com@gmail.com>",
   "main": "replace.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/harthur/replace.git"
+    "url": "git+ssh://git@github.com:Mathou54/replace2.git"
   },
   "scripts": {
     "test": "tap test"
@@ -31,9 +31,9 @@
     "replace"
   ],
   "bugs": {
-    "url": "https://github.com/harthur/replace/issues"
+    "url": "https://github.com/Mathou54/replace2/issues"
   },
-  "homepage": "https://github.com/harthur/replace#readme",
+  "homepage": "https://github.com/Mathou54/replace2#readme",
   "directories": {
     "test": "test"
   }
